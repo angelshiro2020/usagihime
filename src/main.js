@@ -1,5 +1,5 @@
 window.addEventListener("load", function() {
-    var url = 'https://script.google.com/macros/s/AKfycbyff4txNMIskJXikBi9HmqrPeZXolgC5UElteTYOcbkkHPaC6zHdUEStdFyqj4VrIGO/exec';
+    var url = 'https://script.google.com/macros/s/AKfycby1ZdPXfgDK3iS24yUUN1ECTxxu_jmVl9bOKnbWwt9vviXQQdwNk-X37FdFCXEpxr8x7A/exec';
     fetch(url).then(function(response) {
         if (response.ok) {
             return response.json();
