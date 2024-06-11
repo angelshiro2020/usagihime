@@ -63,12 +63,12 @@ window.addEventListener("load", function() {
 });
 
 function sharetotwitter() {
-    let sresult = "http://twitter.com/share?text=" + gettime() + '&url=https://usagihime.mizuki.cc/';
+    let sresult = "http://twitter.com/share?text=" + gettime() + '&url=https://angelshiro2020.github.io/usagihime/';
     window.open(sresult);
 }
 
 function sharetofkinfb() {
-    let sresult = "https://www.facebook.com/sharer/sharer.php?kid_directed_site=0&sdk=joey&u=https://usagihime.mizuki.cc/&display=popup&ref=plugin&src=share_button&quote=" + gettime();
+    let sresult = "https://www.facebook.com/sharer/sharer.php?kid_directed_site=0&sdk=joey&u=https://angelshiro2020.github.io/usagihime//&display=popup&ref=plugin&src=share_button&quote=" + gettime();
     window.open(sresult);
 }
 
@@ -87,6 +87,6 @@ function gettime() {
 }
 
 function nakirikawaii() {
-    let sresult = "https://usagihime.mizuki.cc/";
+    let sresult = "https://angelshiro2020.github.io/usagihime/";
     window.open(sresult);
 }
