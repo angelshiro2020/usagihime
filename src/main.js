@@ -73,7 +73,7 @@ function sharetofkinfb() {
 }
 
 function sharetoline() {
-    let sresult = "https://line.me/R/msg/text/?" + gettime() + '%0D%0Ahttps://usagihime.mizuki.cc/';
+    let sresult = "https://line.me/R/msg/text/?" + gettime() + '%0D%0Ahttps://angelshiro2020.github.io/usagihime/';
     window.open(sresult);
 }
 
